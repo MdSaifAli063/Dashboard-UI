@@ -35,6 +35,8 @@ Dependencies:
 
 ## Screenshots 📸
 
+![image](https://github.com/MdSaifAli063/Dashboard-UI/blob/c8bf5ce3516756d69db099a9c71e5e3ff3cdc2dd/Screenshot%202025-09-08%20163108.png)
+
 
 ## Icons used (CSS classes → emoji) 🎨
 
@@ -134,3 +136,4 @@ License 📜
 
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
