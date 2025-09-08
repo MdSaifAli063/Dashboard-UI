@@ -33,6 +33,9 @@ Dependencies:
 - Emoji-powered icon set (no extra icon library needed)
 - Zero build step; works offline (except external images/CDN)
 
+## Screenshots 📸
+
+
 ## Icons used (CSS classes → emoji) 🎨
 
 These are implemented with CSS pseudo-elements (content). Use the class names in your HTML.
@@ -128,5 +131,6 @@ Avatar placeholder: https://i.pravatar.cc
 Store badges: Google Play and Apple App Store official badges
 
 License 📜
+
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
