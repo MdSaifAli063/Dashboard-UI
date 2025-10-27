@@ -97,7 +97,7 @@ data: {
     { label: 'Inpatients',  data: [180, 220, 210, 240, 260, 270, 300, 320, 310, 330, 340, 360] }
   ]
 }
-
+```
 Colors
 
 Colors are defined in style.css via CSS variables under :root. Adjust them to theme the app.
@@ -135,6 +135,7 @@ Store badges: Google Play and Apple App Store official badges
 License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
