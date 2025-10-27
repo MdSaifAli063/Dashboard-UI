@@ -110,11 +110,11 @@ Icons not showing
 - Emoji rendering can differ by OS/browser. Most modern browsers should display them fine.
 - Charts not rendering
 
-Check your network; Chart.js is loaded via CDN.
-Confirm the script tag order in index.html:
-Chart.js CDN
-script.js
-External images not loading
+- Check your network; Chart.js is loaded via CDN.
+- Confirm the script tag order in index.html:
+- Chart.js CDN
+- script.js
+- External images not loading
 
 Some networks block external images. Use local files under assets/img and 
 update the paths.
@@ -135,6 +135,7 @@ Store badges: Google Play and Apple App Store official badges
 License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
