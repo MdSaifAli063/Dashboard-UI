@@ -119,11 +119,11 @@ Icons not showing
 Some networks block external images. Use local files under assets/img and 
 update the paths.
 
-Accessibility ♿
+## Accessibility ♿
 
-All non-decorative images include alt text.
-Buttons and interactive elements have labels or roles.
-Consider further improvements (focus states, ARIA roles) as needed.
+- All non-decorative images include alt text.
+- Buttons and interactive elements have labels or roles.
+- Consider further improvements (focus states, ARIA roles) as needed.
 
 Credits 🙏
 
@@ -135,6 +135,7 @@ Store badges: Google Play and Apple App Store official badges
 License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
