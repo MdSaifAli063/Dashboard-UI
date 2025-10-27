@@ -102,13 +102,13 @@ Colors
 
 Colors are defined in style.css via CSS variables under :root. Adjust them to theme the app.
 
-Troubleshooting 🔧
+## Troubleshooting 🔧
 
 Icons not showing
 
-Ensure the .icon-* classes are present in style.css.
-Emoji rendering can differ by OS/browser. Most modern browsers should display them fine.
-Charts not rendering
+- Ensure the .icon-* classes are present in style.css.
+- Emoji rendering can differ by OS/browser. Most modern browsers should display them fine.
+- Charts not rendering
 
 Check your network; Chart.js is loaded via CDN.
 Confirm the script tag order in index.html:
@@ -135,6 +135,7 @@ Store badges: Google Play and Apple App Store official badges
 License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
