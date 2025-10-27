@@ -132,9 +132,10 @@ update the paths.
 - Avatar placeholder: https://i.pravatar.cc
 - Store badges: Google Play and Apple App Store official badges
 
-License 📜
+## License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
