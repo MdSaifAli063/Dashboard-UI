@@ -125,16 +125,17 @@ update the paths.
 - Buttons and interactive elements have labels or roles.
 - Consider further improvements (focus states, ARIA roles) as needed.
 
-Credits 🙏
+## Credits 🙏
 
-Charts: Chart.js (https://www.chartjs.org/)
-Promo illustration image: Unsplash (replace with your own if licensing matters for your distribution)
-Avatar placeholder: https://i.pravatar.cc
-Store badges: Google Play and Apple App Store official badges
+- Charts: Chart.js (https://www.chartjs.org/)
+- Promo illustration image: Unsplash (replace with your own if licensing matters for your distribution)
+- Avatar placeholder: https://i.pravatar.cc
+- Store badges: Google Play and Apple App Store official badges
 
 License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
