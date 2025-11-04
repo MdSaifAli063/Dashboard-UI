@@ -43,17 +43,17 @@ Dependencies:
 These are implemented with CSS pseudo-elements (content). Use the class names in your HTML.
 
 Navigation and UI:
-- .icon-patients → 🏥
-- .icon-star → ★
-- .icon-map → 🗺
-- .icon-list → ≡
-- .icon-building → 🏢
-- .icon-lines → ≣
-- .icon-clock → ⏱
-- .icon-search → 🔎
-- .icon-bell → 🔔
-- .icon-caret → ▾
-- .icon-dots → ⋯
+.icon-patients → 🏥
+.icon-star → ★
+.icon-map → 🗺
+.icon-list → ≡
+.icon-building → 🏢
+.icon-lines → ≣
+.icon-clock → ⏱
+.icon-search → 🔎
+.icon-bell → 🔔
+.icon-caret → ▾
+.icon-dots → ⋯
 
 Cards and lists:
 - .icon-stats → ▤
@@ -135,6 +135,7 @@ update the paths.
 ## License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
