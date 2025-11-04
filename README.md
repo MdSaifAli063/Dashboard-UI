@@ -56,16 +56,16 @@ Navigation and UI:
 .icon-dots → ⋯
 
 Cards and lists:
-- .icon-stats → ▤
-- .icon-users → 👥
-- .icon-clipboard → 🗒
-- .icon-bus → 🚐
-- .icon-bag → 👜
-- .icon-box → 🧠
-- .icon-surgery → ✚
+ .icon-stats → ▤
+ .icon-users → 👥
+ .icon-clipboard → 🗒
+ .icon-bus → 🚐
+ .icon-bag → 👜
+ .icon-box → 🧠
+ .icon-surgery → ✚
 
 Images:
-- .icon-image and .icon-images → 🖼
+.icon-image and .icon-images → 🖼
 
 Tip: If an icon doesn’t appear, ensure the CSS rules exist in style.css and the class name matches exactly.
 
@@ -109,7 +109,6 @@ Icons not showing
 - Ensure the .icon-* classes are present in style.css.
 - Emoji rendering can differ by OS/browser. Most modern browsers should display them fine.
 - Charts not rendering
-
 - Check your network; Chart.js is loaded via CDN.
 - Confirm the script tag order in index.html:
 - Chart.js CDN
@@ -135,6 +134,7 @@ update the paths.
 ## License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
