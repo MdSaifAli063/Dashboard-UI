@@ -98,7 +98,6 @@ data: {
   ]
 }
 ```
-Colors
 
 Colors are defined in style.css via CSS variables under :root. Adjust them to theme the app.
 
@@ -134,6 +133,7 @@ update the paths.
 ## License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
