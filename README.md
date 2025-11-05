@@ -16,9 +16,9 @@ Dependencies:
 
 ## Project structure 🗂
 
-
+```
 . ├─ index.html # Markup for the dashboard ├─ style.css # All styles, including emoji-based icons └─ script.js # Chart.js initialization and chart setups
-
+```
 
 ## Features ✨
 
@@ -134,6 +134,7 @@ update the paths.
 ## License 📜
 
 No license specified. Add a LICENSE file if you plan to distribute this project.
+
 
 
 
